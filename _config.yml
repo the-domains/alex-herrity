@@ -1,0 +1,23 @@
+name: Alex Herrity
+favicon: null
+layout_spectrum: 0.7108614181634039
+typography_spectrum: 0.45598951377905905
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9717328299302608
+  lightness: 0.6709979325532913
+  saturation: 0.795146296499297
+  rhythmicContrast: 0.7389281808864325
+purpose: []
