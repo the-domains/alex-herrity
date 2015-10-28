@@ -1,7 +1,7 @@
 name: Alex Herrity
 favicon: null
 layout_spectrum: 0.49922
-typography_spectrum: 0
+typography_spectrum: 0.5
 title: Alex
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#d4cbba'
     - '#9b845a'
     - '#67573d'
-  brandStrength: 0.8125
+  brandStrength: 0.4375
   lightness: 0.6709979325532913
   saturation: 0.795146296499297
   rhythmicContrast: 0.7389281808864325
